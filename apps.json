@@ -1,0 +1,20 @@
+{
+  "name": "Regal",
+  "identifier": "com.eduardertel.regal.source",
+  "subtitle": "Privater Jellyfin-Client im Apple-Music-Stil",
+  "iconURL": "https://raw.githubusercontent.com/conductrr/regal-dist/main/icon.png",
+  "website": "https://github.com/conductrr/regal-dist",
+  "apps": [
+    {
+      "name": "Regal",
+      "bundleIdentifier": "com.eduardertel.regal",
+      "developerName": "Eduard Ertel",
+      "subtitle": "Musik aus der eigenen Jellyfin-Bibliothek",
+      "localizedDescription": "Regal spielt Musik aus einer eigenen Jellyfin-Bibliothek, im Apple-Music-Stil: Cover im Vordergrund, wenig Text, keine Ablenkung. Alben lassen sich fuer unterwegs herunterladen. Die App bringt keine Bibliothek mit, sie braucht einen eigenen Jellyfin-Server, an dem man sich beim ersten Start anmeldet.",
+      "iconURL": "https://raw.githubusercontent.com/conductrr/regal-dist/main/icon.png",
+      "tintColor": "1D1D1F",
+      "category": "entertainment",
+      "versions": []
+    }
+  ]
+}
