@@ -14,7 +14,23 @@
       "iconURL": "https://raw.githubusercontent.com/conductrr/regal-dist/main/icon.png",
       "tintColor": "1D1D1F",
       "category": "entertainment",
-      "versions": []
+      "versions": [
+        {
+          "version": "0.5.0",
+          "buildVersion": "36",
+          "date": "2026-09-02",
+          "localizedDescription": "Bau-Nummer 36.",
+          "downloadURL": "https://github.com/conductrr/regal-dist/releases/download/ios-v0.5.0-36/regal.ipa",
+          "size": 86866073,
+          "sha256": "b227f183793c5f459d05478640f2a7d61644d7a084c9a01615cdc22e8e9e6b73",
+          "minOSVersion": "13.0"
+        }
+      ],
+      "version": "0.5.0",
+      "versionDate": "2026-09-02",
+      "versionDescription": "Bau-Nummer 36.",
+      "downloadURL": "https://github.com/conductrr/regal-dist/releases/download/ios-v0.5.0-36/regal.ipa",
+      "size": 86866073
     }
   ]
 }
