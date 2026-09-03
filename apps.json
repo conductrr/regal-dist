@@ -16,6 +16,16 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.5.3",
+          "buildVersion": "52",
+          "date": "2026-09-03",
+          "localizedDescription": "0.5.3 (52)",
+          "downloadURL": "https://github.com/conductrr/regal-dist/releases/download/ios-v0.5.3-52/regal.ipa",
+          "size": 86886075,
+          "sha256": "7312dd8d5d4a1aff795c8ddf454a3341fa80e2420d7fd043da6982c419d5dcea",
+          "minOSVersion": "13.0"
+        },
+        {
           "version": "0.5.2",
           "buildVersion": "47",
           "date": "2026-09-03",
@@ -66,11 +76,11 @@
           "minOSVersion": "13.0"
         }
       ],
-      "version": "0.5.2",
+      "version": "0.5.3",
       "versionDate": "2026-09-03",
-      "versionDescription": "0.5.2 (47)",
-      "downloadURL": "https://github.com/conductrr/regal-dist/releases/download/ios-v0.5.2-47/regal.ipa",
-      "size": 86885798
+      "versionDescription": "0.5.3 (52)",
+      "downloadURL": "https://github.com/conductrr/regal-dist/releases/download/ios-v0.5.3-52/regal.ipa",
+      "size": 86886075
     }
   ]
 }
