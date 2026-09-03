@@ -17,6 +17,16 @@
       "versions": [
         {
           "version": "0.5.0",
+          "buildVersion": "42",
+          "date": "2026-09-03",
+          "localizedDescription": "0.5.0 (42)",
+          "downloadURL": "https://github.com/conductrr/regal-dist/releases/download/ios-v0.5.0-42/regal.ipa",
+          "size": 86866954,
+          "sha256": "0b54fab510c7b5877cb83be52b9924fb4811a6d35dfba19eaa70bf9a83832dc8",
+          "minOSVersion": "13.0"
+        },
+        {
+          "version": "0.5.0",
           "buildVersion": "36",
           "date": "2026-09-02",
           "localizedDescription": "Bau-Nummer 36.",
@@ -27,10 +37,10 @@
         }
       ],
       "version": "0.5.0",
-      "versionDate": "2026-09-02",
-      "versionDescription": "Bau-Nummer 36.",
-      "downloadURL": "https://github.com/conductrr/regal-dist/releases/download/ios-v0.5.0-36/regal.ipa",
-      "size": 86866073
+      "versionDate": "2026-09-03",
+      "versionDescription": "0.5.0 (42)",
+      "downloadURL": "https://github.com/conductrr/regal-dist/releases/download/ios-v0.5.0-42/regal.ipa",
+      "size": 86866954
     }
   ]
 }
